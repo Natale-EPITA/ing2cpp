@@ -1,0 +1,11 @@
+Correction du groupe 15: 
+
+find_motiv :
+
+- le code compile
+- Bon clang format
+- Tests: 
+    -> test avec un fichier vide : OK
+    -> Test avec un fichier contenant une ligne : OK
+    -> Test avec plusieurs lignes : OK
+    -> Test avec un motif apparessant 0 fois : OK

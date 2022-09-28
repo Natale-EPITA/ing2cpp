@@ -1,0 +1,9 @@
+Preview groupe 15
+is_prime_prog : 
+
+- Le code compile
+- C'est bien clang-formatté
+- Tests :
+	->Test avec un nombre : OK
+	->Test avec plusieurs nombres : OK
+	->Test vide : OK 
